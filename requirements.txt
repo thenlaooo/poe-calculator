@@ -1,0 +1,4 @@
+# Виджеты PySide6. Полный метапакет PySide6 дополнительно тянет Qt WebEngine,
+# калькулятору он не нужен. Импорт в коде — PySide6.
+PySide6-Essentials>=6.8
+matplotlib>=3.9
